@@ -14,9 +14,13 @@
  This function is hard-coded to produce a grid with a certain stroke width and color. To modify these things, the function itself must be modified.
  
  inputs:
+ 
  leftBuffer (float) : controls the distance between the left edge of the canvas and the left edge of the grid. Distance is measured inpixels.
+ 
  rightBuffer (float): controls the distance between the right edge of the canvas and the right edge of the grid. Distance is measured in pixels.
+ 
  topBuffer (float)  : controls the distance between the top edge of the canvas and the top edge of the grid. Distance is measured in pixels.
+ 
  botBuffer (float)  : controls the distance between the bottom edge of the canvas and the bottom edge of the grid. Distance is measured in pixels.
  
  (2)
